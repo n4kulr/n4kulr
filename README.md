@@ -19,10 +19,5 @@ languages · python · c · swift · javascript · lua · assembly · typescript
 
 *right now: bringing up an ESP32*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="visualizer-dark.gif">
-  <img src="visualizer.gif" alt="github contributions as a music visualizer" width="640" />
-</picture>
-
 `peripherals/`
 `web` [portfolio](https://github.com/n4kulr/portfolio) · `swift` [sayvit](https://github.com/n4kulr/sayvit) · `js` [guessify](https://github.com/n4kulr/guessify)
